@@ -1,0 +1,11 @@
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\bin\Debug\SportsLeague.exe
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\bin\Debug\SportsLeague.pdb
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\bin\Debug\SportsLeague.xml
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\SportsLeague.Resources.resources
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\SportsLeague.exe
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\SportsLeague.xml
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\SportsLeague.pdb
+E:\School - First Semester\Introduction To Programming\Chapter 10\CPA 5\SportsLeague\SportsLeague\obj\x86\Debug\SportsLeague.frmLittleLeague.resources
